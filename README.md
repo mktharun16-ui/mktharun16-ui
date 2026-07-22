@@ -60,7 +60,7 @@ I am always eager to learn, collaborate, and improve my technical skills by work
 * CSS3
 * JavaScript
 * React.js
-* Bootstrap
+  
 
 ---
 
